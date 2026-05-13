@@ -7,7 +7,7 @@ The following versions of the project currently receive security updates and sup
 | Version | Supported |
 |---------|------------|
 | Latest Version | ✅ |
-| Older Versions | ❌ |
+| Older Versions | ✅ |
 
 ---
 
