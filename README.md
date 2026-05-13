@@ -2,7 +2,7 @@
 
 <div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg9nahQlXrLta_KHmXuJn76qzhsq4LpO86DQ&s" alt="Lock icon with shield symbolizing security and password protection in blue and gold tones" width="150" height="150"></div>
 
-A modern and responsive Password Strength Testing Tool built using **HTML**, **CSS**, and **JavaScript**.
+A responsive Password Strength Testing Tool built with**HTML**, **CSS**, and **JavaScript** that analyzes password security, entropy, patterns, and estimated crack time in real time while keeping all data private in the browser.
 
 This tool analyzes password strength in real time by checking:
 - Password length
