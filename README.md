@@ -15,6 +15,9 @@ This tool analyzes password strength in real time by checking:
 The project runs completely in the browser for better privacy and security.
 
 ---
+## 🌐 Live Demo
+
+👉 [Visit Website](https://neonkernel-spec.github.io/password-strength-tool/) 
 
 ## 🚀 Features
 
