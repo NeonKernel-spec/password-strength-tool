@@ -23,7 +23,7 @@ Click the **Fork** button on the top right corner of the repository page.
 ## 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/NeonKernel-spec/password-strength-tool.git
+git clone https://github.com/TerminalMind/password-strength-tool.git
 ```
 
 ---
